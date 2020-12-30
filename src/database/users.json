@@ -1,1 +1,26 @@
-[]
+[
+ {
+  "id": 1,
+  "email": "example@example.com",
+  "password": "$2a$10$YJNmWHie1PjNZKcUNmlq.O.3pmOUidm8w",
+  "avatar": "image-example.jpg"
+ },
+ {
+  "id": 2,
+  "email": "diegosabater_34@hotmail.com",
+  "password": "$2a$10$znsZ4qbEBn32tciI1FcGwuh34GLTWJhwssJ8D6dlt9HhVVI8pFVrC",
+  "avatar": "avatar-1609297523908-depositphotos_195230158-stock-photo-toned-picture-silhouette-hacker-hoodie.jpg"
+ },
+ {
+  "id": 3,
+  "email": "Ramiro@digitalhouse.com",
+  "password": "$2a$10$u5D8iHQNXZf8mCbgx3iLqeKskkxbze8wlhXLhh3id8ufmyFWbz5sm",
+  "avatar": "avatar-1609297583548-depositphotos_195230158-stock-photo-toned-picture-silhouette-hacker-hoodie.jpg"
+ },
+ {
+  "id": 4,
+  "email": "123@digitalhouse.com",
+  "password": "$2a$10$Z.PWZ6Pa2j.e5y6Z1lsLL.jcfHHNXFwzaeENNclZS3hpqdLDiYMtu",
+  "avatar": "avatar-1609298147948-depositphotos_195230158-stock-photo-toned-picture-silhouette-hacker-hoodie.jpg"
+ }
+]
